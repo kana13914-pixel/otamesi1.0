@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 585ee364ec903256a2d770939bf47393faa70189 Claude <noreply@anthropic.com> 1793957908 +0900	commit (initial): ドキュメント一式を取り込み、.gitignoreを追加
+585ee364ec903256a2d770939bf47393faa70189 0dc0e9e109d5c504402a55b98b2930ac25de6c16 Claude <noreply@anthropic.com> 1793957916 +0900	commit: D-008: 通知サービスをntfyに仮決定
+0dc0e9e109d5c504402a55b98b2930ac25de6c16 ce72326912a3995d7262c96929e59eae32f376dc Claude <noreply@anthropic.com> 1793958033 +0900	commit: フェーズ0-1: 最小PWAとntfy送信スクリプトを追加
+ce72326912a3995d7262c96929e59eae32f376dc 2f51dacf6df1835a6113c2769ac59894e29a035a Claude <noreply@anthropic.com> 1793958085 +0900	commit: フェーズ0-2: ボタン1回で音声を再生する検証を追加
+2f51dacf6df1835a6113c2769ac59894e29a035a d0b6d9a68e0c55bb33e48bc2c67324f1e207fc0f Claude <noreply@anthropic.com> 1793958123 +0900	commit: フェーズ0-3: 指定時刻の予約通知を追加
+d0b6d9a68e0c55bb33e48bc2c67324f1e207fc0f 172b681b804bcf7f92cc757d672cadf8f856454d Claude <noreply@anthropic.com> 1793958152 +0900	commit: NEEDS_HUMAN.md: フェーズ0の実機確認・判断依頼を追記
